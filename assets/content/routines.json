@@ -1,0 +1,303 @@
+[
+  {
+    "id": "routine_pos_jogo_pesado",
+    "title": "Pós-jogo pesado",
+    "description": "Recuperação após jogo intenso ou treino muito pesado.",
+    "steps": [
+      {
+        "id": "step_1",
+        "title": "1. Desaceleração gradual (5–10 min)",
+        "body": "Após término do jogo, fazer caminhada leve por alguns minutos. Não parar abruptamente; o corpo se recupera melhor com desaceleração gradual. Respiração normalizará progressivamente.",
+        "tags": ["imediato"]
+      },
+      {
+        "id": "step_2",
+        "title": "2. Hidratação e eletrólitos",
+        "body": "Beber água ou bebida com eletrólitos para repor o que foi perdido no suor. Alguns atletas bebem 500ml–1 litro nos primeiros 30 minutos, dependendo da intensidade.",
+        "tags": ["nutrição"]
+      },
+      {
+        "id": "step_3",
+        "title": "3. Resfriamento muscular (5 min)",
+        "body": "Alguns alongamentos leves, sem forçar. Apenas manutenção, não ganhar amplitude. Foco em grupos musculares muito trabalhados (pernas, costas).",
+        "tags": ["alongamento"]
+      },
+      {
+        "id": "step_4",
+        "title": "4. Ducha ou banho frio (se puder)",
+        "body": "Alguns atletas fazem contraste: ducha morna depois fria. Frio reduz inflamação; morno é confortável. Se apenas morno disponível, tudo bem também.",
+        "tags": ["recuperação"]
+      },
+      {
+        "id": "step_5",
+        "title": "5. Nutrição de recuperação (30–60 min depois)",
+        "body": "Comer refeição com proteína + carboidrato. Frango com batata, atum com pão, ovos com aveia. Isso ajuda reparação muscular e reposição de glicogênio.",
+        "tags": ["nutrição"]
+      },
+      {
+        "id": "step_6",
+        "title": "6. Elevação das pernas (10–15 min)",
+        "body": "Deitar com pernas elevadas (almofada, sofá). Reduz inchaço e facilita retorno de sangue. Relaxing e efetivo.",
+        "tags": ["recuperação"]
+      },
+      {
+        "id": "step_7",
+        "title": "7. Dormir bem",
+        "body": "Noite de sono de qualidade é essencial. O corpo se recupera durante sono. Alguns fazem sesta curta (20–30 min) no dia, se possível.",
+        "tags": ["sono"]
+      }
+    ]
+  },
+  {
+    "id": "routine_semana_cheia",
+    "title": "Semana cheia (múltiplos treinos/jogos)",
+    "description": "Como gerenciar múltiplas sessões de treino ou jogos na semana.",
+    "steps": [
+      {
+        "id": "step_1",
+        "title": "1. Recuperação ativa entre treinos",
+        "body": "Nos dias com múltiplos treinos, fazer mobilidade leve entre eles. Alongamento, caminhada, nado leve. Não intenso, apenas movimento suave.",
+        "tags": ["mobilidade"]
+      },
+      {
+        "id": "step_2",
+        "title": "2. Hidratação contínua",
+        "body": "Beber água ao longo de todo dia, não só durante exercício. Manter urina clara ou leve amarelo. Alguns bebem 2–3 litros por dia em semana cheia.",
+        "tags": ["nutrição"]
+      },
+      {
+        "id": "step_3",
+        "title": "3. Nutrição aumentada",
+        "body": "Comer mais vezes ou maior quantidade: café da manhã + lanche + almoço + lanche + jantar. Corpo precisa de mais combustível em semana intensa.",
+        "tags": ["nutrição"]
+      },
+      {
+        "id": "step_4",
+        "title": "4. Sono priorizado",
+        "body": "Ir dormir mais cedo, acordar descansado. Se possível, sesta após treino. Sono é mais importante ainda em semana cheia.",
+        "tags": ["sono"]
+      },
+      {
+        "id": "step_5",
+        "title": "5. Monitorar fadiga",
+        "body": "Se sentindo muito cansado ou com dor persistente, avisar técnico. Semana cheia é intensa; está tudo bem pedir para reduzir ou modificar um treino.",
+        "tags": ["escuta"]
+      }
+    ]
+  },
+  {
+    "id": "routine_semana_leve",
+    "title": "Semana leve",
+    "description": "Semana com menor carga, para recuperação.",
+    "steps": [
+      {
+        "id": "step_1",
+        "title": "1. Reduzir volume",
+        "body": "Fazer menos repetições, menos séries, menos distância. Cerca de 50–60% da volume normal. Foco é recuperação, não ganho.",
+        "tags": ["repouso"]
+      },
+      {
+        "id": "step_2",
+        "title": "2. Alongamento e mobilidade",
+        "body": "Dedicar mais tempo a alongamento e mobilidade. 15–20 minutos de alongamento suave na semana leve. Melhorar amplitude de movimento.",
+        "tags": ["alongamento"]
+      },
+      {
+        "id": "step_3",
+        "title": "3. Técnica de movimento",
+        "body": "Se treinar, focar em técnica perfeita com carga leve. Não força, qualidade de movimento. Ótima oportunidade de corrigir padrões.",
+        "tags": ["técnica"]
+      },
+      {
+        "id": "step_4",
+        "title": "4. Recuperação extra",
+        "body": "Gelo em áreas tenras, auto-massagem, mobilidade. Algumas vezes extra de alongamento. Deixe corpo se recuperar sem stress.",
+        "tags": ["recuperação"]
+      },
+      {
+        "id": "step_5",
+        "title": "5. Dormir suficiente",
+        "body": "Aproveitar para dormir bem. Sem treinos muito intensos, mais fácil dormir melhor. Qualidade e quantidade importam.",
+        "tags": ["sono"]
+      }
+    ]
+  },
+  {
+    "id": "routine_volta_lesao",
+    "title": "Volta de lesão (conceitual)",
+    "description": "Progressão conceitual ao voltar de lesão. Sempre seguir orientação profissional.",
+    "steps": [
+      {
+        "id": "step_1",
+        "title": "1. Sem dor, começa repouso",
+        "body": "Primeiros dias: apenas repouso. Sem movimento ou apenas movement muito leve se liberado. Deixe inflamação inicial diminuir.",
+        "tags": ["repouso"]
+      },
+      {
+        "id": "step_2",
+        "title": "2. Mobilidade e alongamento",
+        "body": "Uma vez sem dor aguda: alongamento leve, movimentos controlados. Sem forçar; apenas manutenção de mobilidade.",
+        "tags": ["mobilidade"]
+      },
+      {
+        "id": "step_3",
+        "title": "3. Fortalecimento isométrico",
+        "body": "Contração muscular sem movimento. Exemplo: apertar um objeto, manter posição. Constrói força sem estresse na articulação.",
+        "tags": ["força"]
+      },
+      {
+        "id": "step_4",
+        "title": "4. Movimento ativo sem resistência",
+        "body": "Mover a área lesada sem peso adicional. Exemplo: flexionar e estender sem carga. Reeduca movimento sem estresse.",
+        "tags": ["mobilidade"]
+      },
+      {
+        "id": "step_5",
+        "title": "5. Fortalecimento progressivo",
+        "body": "Adicionar resistência muito pequena (fita elástica leve, pequeno peso). Aumentar 10% por semana se sem dor.",
+        "tags": ["força"]
+      },
+      {
+        "id": "step_6",
+        "title": "6. Atividades funcionales",
+        "body": "Volta a movimentos parecidos com esporte. Treino técnico leve, movimentos específicos. Preparar para volta ao jogo.",
+        "tags": ["técnica"]
+      },
+      {
+        "id": "step_7",
+        "title": "7. Volta progressiva",
+        "body": "Participação limitada em jogo ou treino, aumentando gradualmente. Pode levar semanas. Sem pressa; voltar cedo demais piora.",
+        "tags": ["progressão"]
+      }
+    ]
+  },
+  {
+    "id": "routine_treino_intenso",
+    "title": "Dia de treino intenso",
+    "description": "Gestão de dia com treino de alta intensidade.",
+    "steps": [
+      {
+        "id": "step_1",
+        "title": "1. Café da manhã bem-alimentado",
+        "body": "Comer refeição completa com carboidrato + proteína + fruta. Exemplo: aveia, ovo, banana. Energia para treino.",
+        "tags": ["nutrição"]
+      },
+      {
+        "id": "step_2",
+        "title": "2. Aquecimento completo (10–15 min)",
+        "body": "Corrida leve, leg swings, círculos de braço, mobilidade dinâmica. Preparar corpo para intensidade. Não pule.",
+        "tags": ["aquecimento"]
+      },
+      {
+        "id": "step_3",
+        "title": "3. Treino com progresso",
+        "body": "Executar treino planejado. Focar em qualidade do movimento mesmo sob fadiga. Intenso, mas controlado.",
+        "tags": ["treino"]
+      },
+      {
+        "id": "step_4",
+        "title": "4. Resfriamento (5–10 min)",
+        "body": "Depois de intensidade, fazer alongamento leve e movimentos suaves. Coração volta ao normal progressivamente.",
+        "tags": ["resfriamento"]
+      },
+      {
+        "id": "step_5",
+        "title": "5. Nutrição e hidratação imediata",
+        "body": "Beber água ou bebida com eletrólitos. Comer proteína + carboidrato nos primeiros 30–60 minutos.",
+        "tags": ["nutrição"]
+      },
+      {
+        "id": "step_6",
+        "title": "6. Resto de dia: hidratação + nutrição",
+        "body": "Beber água ao longo do dia. Fazer refeições normais. Corpo precisa se recuperar do treino intenso.",
+        "tags": ["nutrição"]
+      },
+      {
+        "id": "step_7",
+        "title": "7. Dormir bem",
+        "body": "Ir dormir no horário. Sono de qualidade é essencial para adaptação ao treino intenso. Dia intenso = sono importante.",
+        "tags": ["sono"]
+      }
+    ]
+  },
+  {
+    "id": "routine_treino_leve",
+    "title": "Dia de treino leve",
+    "description": "Dia focado em qualidade e técnica, não intensidade.",
+    "steps": [
+      {
+        "id": "step_1",
+        "title": "1. Aquecimento suave",
+        "body": "Apenas manutenção: caminhada, alongamento, movimentos suaves. Sem necessidade de preparação intensa.",
+        "tags": ["aquecimento"]
+      },
+      {
+        "id": "step_2",
+        "title": "2. Treino técnico",
+        "body": "Focar em qualidade, não repetições. Poucos exercícios, feitos com perfeição. Exemplo: 2–3 exercícios bem executados.",
+        "tags": ["técnica"]
+      },
+      {
+        "id": "step_3",
+        "title": "3. Mobilidade e alongamento",
+        "body": "Dedicar tempo a alongamento e mobilidade. 10–15 minutos de alongamento suave. Melhorar amplitude.",
+        "tags": ["alongamento"]
+      },
+      {
+        "id": "step_4",
+        "title": "4. Nutrição normal",
+        "body": "Comer normalmente. Não precisa nutrição pós-treino intensiva. Refeições regula suffice.",
+        "tags": ["nutrição"]
+      },
+      {
+        "id": "step_5",
+        "title": "5. Recuperação prioritária",
+        "body": "Dia leve é para recuperação. Aproveitar para descansar, alongar extra, tirar sesta se quiser.",
+        "tags": ["repouso"]
+      }
+    ]
+  },
+  {
+    "id": "routine_dia_viagem",
+    "title": "Dia de viagem",
+    "description": "Como se manter minimamente ativo durante viagem.",
+    "steps": [
+      {
+        "id": "step_1",
+        "title": "1. Movimentação durante viagem",
+        "body": "Ficar sentado muito tempo afeta circulação. A cada 1–2 horas, levantar, caminhar, alongar. Fazer círculos de tornozelo sentado.",
+        "tags": ["mobilidade"]
+      },
+      {
+        "id": "step_2",
+        "title": "2. Hidratação contínua",
+        "body": "Beber água regularmente durante viagem. Desidratação comum em viagens. Manter urina clara.",
+        "tags": ["nutrição"]
+      },
+      {
+        "id": "step_3",
+        "title": "3. Nutrição prudente",
+        "body": "Levar snacks (frutas, nuts, barras proteicas) para evitar apenas comida pesada de aeroporto. Comer o suficiente, sem exesso.",
+        "tags": ["nutrição"]
+      },
+      {
+        "id": "step_4",
+        "title": "4. Alongamento no hotel",
+        "body": "Llegar no local, fazer alongamento leve de 5–10 minutos. Combater rigidez de viagem. Simples: gato-vaca, alongamento de pernas.",
+        "tags": ["alongamento"]
+      },
+      {
+        "id": "step_5",
+        "title": "5. Caminhada leve",
+        "body": "Se tempo permite, caminhar pelo local. 15–30 minutos de caminhada leve. Ativa circulação, muda ambiente.",
+        "tags": ["mobilidade"]
+      },
+      {
+        "id": "step_6",
+        "title": "6. Dormir bem",
+        "body": "Viagem pode afetar sono. Tentar manter horário de sono, usar travesseiro confortável. Prioritize descança.",
+        "tags": ["sono"]
+      }
+    ]
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "id": "inj_posterior_strain",
+    "name": "Distensão de Posterior (Coxa)",
+    "whatIs": "Uma lesão nos músculos na parte de trás da coxa (isquiotibiais). Pode variar de pequeno inchaço a ruptura completa das fibras muscularess.",
+    "whyHappens": "Aceleração rápida ou mudanças de direção sem preparação adequada. Aumento brusco de intensidade, fraqueza relativa ou encurtamento do músculo antes do exercício.",
+    "redFlags": [
+      "Dor súbita tipo 'puxo' ou 'rasgo' durante atividade",
+      "Inchaço imediato ou roxo na coxa",
+      "Dificuldade ao dobrar o joelho ou estender a perna",
+      "Dor que persiste ou piora com movimento"
+    ],
+    "commonCare": "Repouso relativo, gelo nos primeiros dias, depois mobilidade suave. Alguns atletas fazem alongamento leve e progressão gradual de volta. Compressão pode ajudar a reduzir inchaço.",
+    "prevention": "Aquecimento dinâmico: caminhada, leg swings, mobilidade. Alongamento regular da posterior. Fortalecimento equilibrado entre quadríceps e posterior. Aumento gradual de intensidade.",
+    "progressiveReturn": "1–2 dias repouso → caminhada suave → trote leve → treino técnico → volta à intensidade normal. Respeitar o tempo; voltar cedo demais pode piorar."
+  },
+  {
+    "id": "inj_ankle_sprain",
+    "name": "Entorse de Tornozelo",
+    "whatIs": "Estiramento ou ruptura parcial dos ligamentos que estabilizam o tornozelo. A maioria dos casos envolve o tornozelo torcido para dentro.",
+    "whyHappens": "Terreno irregular, pouso ruim de um salto, mudança rápida de direção. Histórico de entorse anterior aumenta o risco.",
+    "redFlags": [
+      "Inchaço rápido e significativo",
+      "Incapacidade de colocar peso no pé",
+      "Roxo extenso ou decoloração",
+      "Sensação de instabilidade ou 'frouxidão' do tornozelo"
+    ],
+    "commonCare": "Descanso, gelo, compressão, elevação (RICE). Alguns usam fita ou órtese para estabilidade. Propriocepção: exercícios de equilíbrio em pé. Progressão gradual de volta.",
+    "prevention": "Fortalecimento do tornozelo: exercícios com fita elástica. Propriocepção: ficar em pé em uma perna. Aquecimento melhor. Uso de proteção (tape, órtese) se histórico de entorse.",
+    "progressiveReturn": "1–2 dias repouso → mobilidade de tornozelo → equilíbrio → caminhada → trote → corrida. Usar proteção durante volta ao esporte."
+  },
+  {
+    "id": "inj_patellar_pain",
+    "name": "Síndrome Patelofemoral (Dor no Joelho)",
+    "whatIs": "Dor ao redor da rótula, geralmente causada por desequilíbrio muscular ou rastreamento inadequado da rótula no sulco femoral.",
+    "whyHappens": "Músculos da coxa desequilibrados, fraqueza de glúteos, quadril instável, aumento rápido de intensidade.",
+    "redFlags": [
+      "Dor ao redor da rótula que piora ao agachar ou descer escadas",
+      "Inchaço leve ou sensação de inchação",
+      "Sensação de instabilidade do joelho",
+      "Dor que limita atividade"
+    ],
+    "commonCare": "Repouso relativo, fortalecimento de glúteos e quadríceps (VL e VMO). Alongamento de TFL e aductores tensos. Gelo após atividade. Melhora progressiva com treino adequado.",
+    "prevention": "Fortalecimento equilibrado: glúteos, abdômen, quadríceps. Mobilidade de quadril. Corrida com técnica melhorada. Aumento gradual de volume. Calçado com suporte adequado.",
+    "progressiveReturn": "Modificar atividades que causam dor → fortalecimento focado → volta gradual a atividades de impacto. Pode levar semanas a meses."
+  },
+  {
+    "id": "inj_pubalgia",
+    "name": "Pubalgia (Dor na Virilha)",
+    "whatIs": "Dor na região pública, muitas vezes envolvendo inflamação nos aductores, reto abdominal ou sínfise pública.",
+    "whyHappens": "Movimentos laterais repetidos, desequilíbrio muscular entre abdômen e aductores, aumento rápido de intensidade, mudanças bruscas de direção.",
+    "redFlags": [
+      "Dor na virilha que piora com movimento lateral",
+      "Dor que irradia para a coxa ou região inguinal",
+      "Dificuldade ao mudar de direção ou chutar",
+      "Dor que persiste após repouso"
+    ],
+    "commonCare": "Repouso relativo, alongamento dos aductores e flexores de quadril. Fortalecimento do core e aductores. Gelo se há inflamação. Melhoria gradual com treino adequado.",
+    "prevention": "Fortalecimento equilibrado do core e aductores. Alongamento regular. Aquecimento melhor com mobilidade dinâmica. Aumento gradual de intensidade. Técnica de movimento melhorada.",
+    "progressiveReturn": "Modificar movimentos que causam dor → alongamento e fortalecimento → volta a treino técnico → intensidade progressiva. Pode levar 2–4 semanas."
+  },
+  {
+    "id": "inj_low_back_pain",
+    "name": "Dor Lombar",
+    "whatIs": "Desconforto na coluna baixa, frequentemente relacionado a desequilíbrio muscular, postura inadequada ou movimento instável.",
+    "whyHappens": "Core fraco, flexibilidade limitada, postura inadequada, movimento repetido sem controle, stress acumulado.",
+    "redFlags": [
+      "Dor aguda que limita movimento",
+      "Formigamento ou fraqueza nas pernas",
+      "Dor que irradia para a coxa ou glúteo",
+      "Dor progressiva ou que não melhora com repouso"
+    ],
+    "commonCare": "Repouso relativo, mobilidade suave, fortalecimento do core (prancha, ponte). Evitar movimento que causa dor aguda. Progressão gradual. Considerar suporte profissional se persiste.",
+    "prevention": "Fortalecimento do core: abdômen e costas. Mobilidade da coluna: gato-vaca, criança. Alongamento regular. Postura melhorada durante treino. Técnica de levantamento correta.",
+    "progressiveReturn": "Repouso relativo → mobilidade → fortalecimento de core → movimento funcional → volta gradual a intensidade. Pode levar 3–8 semanas."
+  },
+  {
+    "id": "inj_plantar_fasciitis",
+    "name": "Fascite Plantar",
+    "whatIs": "Inflamação ou tensão da fáscia plantar (tecido na sola do pé). Geralmente causa dor no calcanhar ou arco do pé.",
+    "whyHappens": "Fáscia tensa, arco do pé fraco ou muito arqueado, falta de suporte adequado, aumento de volume, superfícies duras.",
+    "redFlags": [
+      "Dor no calcanhar ao acordar ou após repouso",
+      "Dor que piora com atividade",
+      "Dor na sola do pé, especialmente na base dos dedos",
+      "Desconforto que afeta o caminhar ou correr"
+    ],
+    "commonCare": "Gelo na sola do pé, alongamento regular, auto-massagem com bolinha de tênis. Usar calçado com melhor suporte. Repouso relativo. Melhoria gradual com estiramento e descanso.",
+    "prevention": "Alongamento regular da fáscia e panturrilha. Calçado com suporte de arco. Fortalecimento do pé (caminhar descalço em areia, exercícios de dedos). Aumento gradual de volume.",
+    "progressiveReturn": "Repouso relativo → alongamento e auto-massagem → atividades de baixo impacto → volta gradual a corrida. Pode levar semanas a meses."
+  },
+  {
+    "id": "inj_tendinitis",
+    "name": "Tendinite (Qualquer Localização)",
+    "whatIs": "Inflamação de um tendão, geralmente associada a uso repetido ou sobrecarga. Pode ocorrer em qualquer tendão do corpo.",
+    "whyHappens": "Uso repetido excessivo, aumento brusco de intensidade, falta de aquecimento, fadiga acumulada, desequilíbrio muscular.",
+    "redFlags": [
+      "Dor localizada no tendão que piora com movimento específico",
+      "Inchaço ou sensação de espessamento",
+      "Dor que piora ao longo do tempo",
+      "Sensação de fraqueza ou rigidez"
+    ],
+    "commonCare": "Repouso relativo, gelo, alongamento e fortalecimento leve. Evitar movimento que causa dor. Progressão muito gradual de volta. Paciência é essencial.",
+    "prevention": "Aquecimento e alongamento antes de atividade. Fortalecimento equilibrado. Aumento gradual de intensidade. Recuperação adequada entre treinos. Técnica de movimento correta.",
+    "progressiveReturn": "Repouso relativo → alongamento passivo → fortalecimento isométrico → isotônico → volta funcional. Pode levar 4–12 semanas."
+  },
+  {
+    "id": "inj_overuse_syndrome",
+    "name": "Síndrome de Sobrecarga",
+    "whatIs": "Desconforto generalizado resultante de treino excessivo sem recuperação adequada. Afeta múltiplos grupos musculares ou sistemas.",
+    "whyHappens": "Aumento muito rápido de volume ou intensidade, falta de dias de recuperação, fadiga acumulada, nutrição ou sono inadequado.",
+    "redFlags": [
+      "Fadiga geral e falta de energia",
+      "Múltiplos pontos de desconforto no corpo",
+      "Desempenho em queda",
+      "Recuperação lenta entre treinos"
+    ],
+    "commonCare": "Reduzir volume ou intensidade, aumentar dias de recuperação. Sono melhor, nutrição adequada. Atividades leves: nado, caminhada. Progressão muito gradual de volta.",
+    "prevention": "Periodização do treino: alternar intensidade. Dias de recuperação ativa (leve mobilidade). Sono adequado (7–9 horas). Nutrição balanceada. Escuta do corpo.",
+    "progressiveReturn": "Reduzir intensidade por 1–2 semanas → mobilidade e alongamento → volta gradual. Implementar planejamento melhor para futuro."
+  },
+  {
+    "id": "inj_cramps",
+    "name": "Câimbras Musculares",
+    "whatIs": "Contração involuntária de um músculo, geralmente acompanhada de dor. Comum durante ou após exercício intenso.",
+    "whyHappens": "Desidratação, fadiga muscular, eletrólitos baixos (sódio, potássio, magnésio), falta de alongamento, esforço excessivo.",
+    "redFlags": [
+      "Dor aguda e súbita em um músculo",
+      "Contração visível ou palpável",
+      "Impossibilidade de usar o músculo durante a cãibra",
+      "Câimbras recorrentes"
+    ],
+    "commonCare": "Alongamento suave durante cãibra. Hidratação e eletrólitos. Massagem suave. Repouso se câimbra severa. Prevenção é melhor que tratamento.",
+    "prevention": "Hidratação adequada antes, durante e após exercício. Alongamento regular, especialmente antes de dormir. Eletrólitos: incluir sódio e potássio. Aquecimento e resfriamento adequados.",
+    "progressiveReturn": "Geralmente recuperação rápida. Focar em prevenção: hidratação, alongamento, nutrição."
+  },
+  {
+    "id": "inj_concussion",
+    "name": "Concussão",
+    "whatIs": "Lesão cerebral traumática resultante de impacto na cabeça. Afeta função cerebral, equilíbrio, cognição e bem-estar.",
+    "whyHappens": "Impacto direto na cabeça, colisão com outro jogador ou objeto, queda com pancada na cabeça.",
+    "redFlags": [
+      "Perda de consciência (mesmo breve)",
+      "Confusão ou desorientação",
+      "Dor de cabeça severa",
+      "Tontura, falta de equilíbrio, visão embaçada",
+      "Náusea ou vômito",
+      "Sensibilidade à luz ou barulho"
+    ],
+    "commonCare": "PARAR IMEDIATAMENTE A ATIVIDADE. Buscar avaliação profissional (médico, fisioterapeuta). Repouso cognitivo e físico. Voltar progressivamente após liberação profissional.",
+    "prevention": "Usar protetor de cabeça se disponível. Técnica de movimento segura. Evitar comportamento reckless. Estar atento ao ambiente de jogo.",
+    "progressiveReturn": "Não fazer auto-diagnóstico. Seguir protocolo profissional: repouso → atividade leve → progressão supervisionada. Pode levar semanas."
+  }
+]

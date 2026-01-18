@@ -1,0 +1,536 @@
+[
+  {
+    "id": "region_joelho",
+    "name": "Joelho",
+    "redFlags": [
+      "Inchaço repentino e intenso",
+      "Sensação de travamento ou 'pega'",
+      "Instabilidade ao caminhador ou correr",
+      "Dor que não melhora com repouso em dias"
+    ],
+    "sections": [
+      {
+        "title": "O que costuma sobrecarregar",
+        "items": [
+          "Mudanças de direção rápidas e repetidas",
+          "Aceleração e frenagem constante",
+          "Saltos frequentes, especialmente em superfícies duras",
+          "Aumento súbito na intensidade de treino",
+          "Músculos da coxa fraca ou desequilíbrio muscular"
+        ]
+      },
+      {
+        "title": "O que alguns atletas fazem para aliviar",
+        "items": [
+          "Gelo após atividade intensa (15–20 minutos)",
+          "Compressão suave com faixa elástica",
+          "Elevação da perna para reduzir inchaço",
+          "Alguns fazem auto-massagem no quadríceps e posterior",
+          "Descanso progressivo: diminuir intensidade antes de parar totalmente"
+        ]
+      },
+      {
+        "title": "Alongamentos simples",
+        "items": [
+          "Agachamento suave com as duas pernas",
+          "Alongamento do quadríceps (puxar o calcanhar para a glúteo)",
+          "Alongamento da parte posterior (inclinação para frente)",
+          "Alongamento da banda iliotibial (TFL): cruzar as pernas em pé",
+          "Sem forçar; apenas manutenção da mobilidade"
+        ]
+      },
+      {
+        "title": "Quando pode ser melhor descansar",
+        "items": [
+          "Se houver inchação visível ou calor local",
+          "Quando a dor piora ao agachar ou descer escadas",
+          "Após jogos ou treinos muito intensos: repouso ativo (caminhada leve)",
+          "Alguns fazem dias de mobilidade leve no lugar de treino pesado"
+        ]
+      },
+      {
+        "title": "O que costuma ser arriscado forçar",
+        "items": [
+          "Agachamento profundo ou leg press pesado com dor",
+          "Correr em alta intensidade se o joelho está inchado",
+          "Pliométricos (saltos) sem aquecimento adequado",
+          "Ignorar sinais de instabilidade ou 'travamento'"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "region_posterior",
+    "name": "Posterior (Coxa)",
+    "redFlags": [
+      "Dor aguda e súbita ao correr ou acelerar",
+      "Sensação de 'puxo' ou rasgo muscular",
+      "Inchaço ou roxo na coxa",
+      "Dificuldade em flexionar o joelho ou estender a perna"
+    ],
+    "sections": [
+      {
+        "title": "O que costuma sobrecarregar",
+        "items": [
+          "Aceleração rápida (sprints) sem aquecimento",
+          "Aumento brusco de intensidade",
+          "Flexibilidade limitada combinada com força excessiva",
+          "Desequilíbrio entre quadríceps forte e posterior fraco",
+          "Fadiga acumulada sem recuperação"
+        ]
+      },
+      {
+        "title": "O que alguns atletas fazem para aliviar",
+        "items": [
+          "Gelo imediato se houver dor aguda",
+          "Repouso relativo: atividades leves que não machucam",
+          "Alongamento moderado (sem forçar se houver lesão)",
+          "Alguns fazem mobilização com foam roller suavemente",
+          "Progressão gradual de volta: caminhada → trote leve → corrida"
+        ]
+      },
+      {
+        "title": "Alongamentos simples",
+        "items": [
+          "Inclinação para frente com as pernas retas (hamstring)",
+          "Flexão do quadril: trazer o joelho em direção ao peito",
+          "Alongamento da pirforme (pode ajudar dor na glúteo)",
+          "Fazer todos com respiração relaxada; nunca forçar com dor aguda"
+        ]
+      },
+      {
+        "title": "Quando pode ser melhor descansar",
+        "items": [
+          "Após dor aguda ou sensação de rasgo",
+          "Se persistir inchaço ou roxo",
+          "Alguns fazem dias específicos de 'repouso ativo' apenas com mobilidade",
+          "Voltar progressivamente: caminhada leve → treino técnico → intensidade"
+        ]
+      },
+      {
+        "title": "O que costuma ser arriscado forçar",
+        "items": [
+          "Sprints a máxima intensidade com posterior tenso",
+          "Alongamento forçado imediatamente após lesão",
+          "Treinos de força pesada (leg curl, sissy squat) sem avaliação",
+          "Ignorar dor que piora com o tempo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "region_tornozelo",
+    "name": "Tornozelo",
+    "redFlags": [
+      "Inchaço significativo que não melhora",
+      "Incapacidade de apoiar peso no pé",
+      "Roxo estendido além do tornozelo",
+      "Sensação de frouxidão ou instabilidade persistente"
+    ],
+    "sections": [
+      {
+        "title": "O que costuma sobrecarregar",
+        "items": [
+          "Terreno irregular ou superfícies instáveis",
+          "Mudanças rápidas de direção em velocidade",
+          "Histórico de entorses anteriores (menor estabilidade)",
+          "Fraqueza nos estabilizadores do tornozelo",
+          "Falta de aquecimento dos músculos ao redor do tornozelo"
+        ]
+      },
+      {
+        "title": "O que alguns atletas fazem para aliviar",
+        "items": [
+          "Gelo e elevação imediata (RICE): repouso, gelo, compressão, elevação",
+          "Alguns usam fita de tornozelo (tape) para estabilidade",
+          "Mobilidade suave: círculos com o pé, movimentos sem peso",
+          "Fortalecimento progressivo: exercícios com fita elástica",
+          "Propriocepção: ficar em pé em uma perna (apoio seguro)"
+        ]
+      },
+      {
+        "title": "Alongamentos simples",
+        "items": [
+          "Círculos com o pé: 10 em cada direção, lentamente",
+          "Alongamento da panturrilha: pé numa escada, inclinar para frente",
+          "Alongamento da frente do tornozelo: flexão do pé",
+          "Fazer sem dor; apenas mobilidade suave"
+        ]
+      },
+      {
+        "title": "Quando pode ser melhor descansar",
+        "items": [
+          "Após entorse aguda ou dor severa",
+          "Se houve pop/estalido associado",
+          "Alguns descansam 1–2 dias, depois fazem mobilidade leve",
+          "Voltar em fases: repouso → caminhada → trote → corrida normal"
+        ]
+      },
+      {
+        "title": "O que costuma ser arriscado forçar",
+        "items": [
+          "Correr ou mudar de direção com tornozelo inchado ou instável",
+          "Pliométricos (saltos, brincos) cedo demais",
+          "Ignorar instabilidade crônica; isso pode levar a mais lesões",
+          "Treinar sem suporte (fita) se houver histórico de entorse"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "region_lombar",
+    "name": "Lombar (Coluna Baixa)",
+    "redFlags": [
+      "Dor aguda e localizada que limita movimento",
+      "Formigamento ou fraqueza nas pernas",
+      "Dor que irradia para a coxa ou glúteo",
+      "Perda de controle da bexiga ou intestino (busque ajuda imediata)"
+    ],
+    "sections": [
+      {
+        "title": "O que costuma sobrecarregar",
+        "items": [
+          "Postura inadequada durante treino ou jogo",
+          "Flexão excessiva da coluna (bending repetido)",
+          "Core fraco: abdômen e costas mal condicionados",
+          "Aperto nos isquiotibiais e flexores de quadril",
+          "Desequilíbrio muscular entre abdômen e costas"
+        ]
+      },
+      {
+        "title": "O que alguns atletas fazem para aliviar",
+        "items": [
+          "Descanso relativo: evitar movimentos que causam dor aguda",
+          "Gelo nos primeiros dias, depois calor suave",
+          "Alguns fazem exercícios de core: prancha, ponte glútea (painless)",
+          "Mobilidade suave: gato-vaca, pelvic tilts",
+          "Manter uma postura neutra da coluna durante treino"
+        ]
+      },
+      {
+        "title": "Alongamentos simples",
+        "items": [
+          "Gato-vaca: lentamente, sem força",
+          "Child's pose: alongamento suave das costas",
+          "Alongamento dos isquiotibiais: inclinação para frente",
+          "Alongamento do flexor de quadril: lunge estático suave",
+          "Nunca forçar extensão (para trás) se dor está presente"
+        ]
+      },
+      {
+        "title": "Quando pode ser melhor descansar",
+        "items": [
+          "Após dor aguda ou lesão",
+          "Se há irradiação de dor para a perna",
+          "Alguns fazem 2–3 dias de repouso relativo, depois mobilidade",
+          "Voltar com movimento controlado; não aumentar intensidade rápido"
+        ]
+      },
+      {
+        "title": "O que costuma ser arriscado forçar",
+        "items": [
+          "Levantamento pesado com coluna flectida",
+          "Exercícios de extensão de costas (superman) com dor",
+          "Abdominais tradicionais (crunch) se há dor lombar",
+          "Rotações agressivas da coluna"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "region_panturrilha",
+    "name": "Panturrilha",
+    "redFlags": [
+      "Dor súbita tipo 'puxo' durante corrida",
+      "Inchaço ou roxo na parte de trás da perna",
+      "Dificuldade em flexionar o pé para cima",
+      "Sensação de fraqueza ao subir nas pontas dos pés"
+    ],
+    "sections": [
+      {
+        "title": "O que costuma sobrecarregar",
+        "items": [
+          "Aumento brusco de volume ou intensidade (muitos sprints)",
+          "Corrida em superfícies duras sem aquecimento",
+          "Flexibilidade limitada da panturrilha antes de atividade",
+          "Fadiga acumulada: corpo não recuperou do treino anterior",
+          "Sapatos com suporte inadequado"
+        ]
+      },
+      {
+        "title": "O que alguns atletas fazem para aliviar",
+        "items": [
+          "Gelo após atividade; elevação da perna",
+          "Compressão com meia de compressão ou faixa",
+          "Alongamento suave da panturrilha regularmente",
+          "Alguns fazem auto-massagem com foam roller (suavemente)",
+          "Aquecimento melhor antes: caminhada + alongamento dinâmico"
+        ]
+      },
+      {
+        "title": "Alongamentos simples",
+        "items": [
+          "Alongamento em pé: mão na parede, perna esticada para trás",
+          "Alongamento de lunge baixo (afunda a panturrilha de trás)",
+          "Alongamento sentado: puxar os dedos em direção ao corpo",
+          "Fazer 2× ao dia; manter 20–30 segundos"
+        ]
+      },
+      {
+        "title": "Quando pode ser melhor descansar",
+        "items": [
+          "Se há dor ao caminhar",
+          "Após sensação de 'rasgo' ou puxo agudo",
+          "Alguns fazem 1–2 dias de repouso, depois mobilidade leve",
+          "Voltar progressivamente: caminhada → trote → corrida normal"
+        ]
+      },
+      {
+        "title": "O que costuma ser arriscado forçar",
+        "items": [
+          "Sprints a máxima velocidade sem aquecimento",
+          "Aumento súbito de volume (muitos km sem progressão)",
+          "Alongamento forçado com dor aguda",
+          "Treinar sem mobilidade adequada antes"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "region_virilha",
+    "name": "Virilha",
+    "redFlags": [
+      "Dor que piora com movimentos laterais ou aductores",
+      "Dor que irradia para o pé ou testículo (em homens)",
+      "Inchaço na virilha que não melhora",
+      "Hérnia inguinal: nódulo visível na virilha"
+    ],
+    "sections": [
+      {
+        "title": "O que costuma sobrecarregar",
+        "items": [
+          "Movimentos laterais repetidos (mudanças de direção)",
+          "Aductores tensos e fracos",
+          "Desequilíbrio muscular: perna externa forte, interna fraca",
+          "Aumento rápido de intensidade ou volume",
+          "Flexibilidade limitada na virilha e quadril"
+        ]
+      },
+      {
+        "title": "O que alguns atletas fazem para aliviar",
+        "items": [
+          "Repouso relativo: evitar movimento que causa dor",
+          "Alongamento dos aductores regularmente",
+          "Alguns fazem fortalecimento com fita elástica (adução do quadril)",
+          "Gelo se há inflamação",
+          "Melhor aquecimento: mobilidade dinâmica antes do treino"
+        ]
+      },
+      {
+        "title": "Alongamentos simples",
+        "items": [
+          "Butterfly: sentado, solas dos pés juntas, inclinar-se para frente",
+          "Lunge lateral: passo para o lado, sentar na perna esticada",
+          "Alongamento do adutor em pé: pé em um banco, inclinar-se",
+          "Fazer suavemente; sem forçar em caso de dor"
+        ]
+      },
+      {
+        "title": "Quando pode ser melhor descansar",
+        "items": [
+          "Se há dor ao movimentar perna para dentro",
+          "Após sensação aguda ou 'puxo'",
+          "Alguns fazem 2–3 dias de repouso relativo",
+          "Voltar com movimentos controlados, sem mudanças brustas de direção"
+        ]
+      },
+      {
+        "title": "O que costuma ser arriscado forçar",
+        "items": [
+          "Mudanças laterais rápidas com virilha tensa",
+          "Exercícios de adução pesada sem progressão",
+          "Alongamento forçado da virilha com dor",
+          "Ignorar dor que piora ou se irradia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "region_quadril",
+    "name": "Quadril",
+    "redFlags": [
+      "Dor na ponta do quadril que piora ao caminhar",
+      "Clique ou 'pop' no quadril durante movimento",
+      "Dor que irradia para a lateral da coxa (possível bursite)",
+      "Fraqueza ao levantar a perna ou abduzir"
+    ],
+    "sections": [
+      {
+        "title": "O que costuma sobrecarregar",
+        "items": [
+          "Glúteos fracos ou dominados pelo tensor da fáscia lata (TFL)",
+          "Flexores de quadril tensos (posição sentada prolongada)",
+          "Movimento repetido em um único plano (corrida em linha reta)",
+          "Desequilíbrio entre grupos musculares do quadril",
+          "Aumento rápido de intensidade ou volume"
+        ]
+      },
+      {
+        "title": "O que alguns atletas fazem para aliviar",
+        "items": [
+          "Repouso relativo: atividades que não causam dor",
+          "Alongamento da TFL e flexores de quadril regularmente",
+          "Alguns fazem fortalecimento dos glúteos (ponte, glute bridge)",
+          "Gelo e compressão se há inflamação",
+          "Melhor padrão de movimento: ativar glúteos antes de treino"
+        ]
+      },
+      {
+        "title": "Alongamentos simples",
+        "items": [
+          "Alongamento da pirforme: sentado, cruzar a perna, inclinar para frente",
+          "Alongamento dos flexores de quadril: lunge estático",
+          "Alongamento da TFL: pé em um banquinho, inclinar-se para frente",
+          "Fazer diariamente para manutenção da mobilidade"
+        ]
+      },
+      {
+        "title": "Quando pode ser melhor descansar",
+        "items": [
+          "Se há dor ao caminhar ou ao fazer agachamento",
+          "Após sensação de clique ou 'pop'",
+          "Alguns fazem 2–3 dias de repouso relativo",
+          "Voltar com ativação de glúteos e movimento controlado"
+        ]
+      },
+      {
+        "title": "O que costuma ser arriscado forçar",
+        "items": [
+          "Treino de força pesada (leg press, agachamento) com quadril tenso",
+          "Alongamento forçado com dor aguda",
+          "Movimento de alta intensidade sem ativação glútea prévia",
+          "Ignorar clique ou 'pop' persistente"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "region_costas",
+    "name": "Costas (Dorsal)",
+    "redFlags": [
+      "Dor entre as omoplatas que limita movimento",
+      "Rigidez severa ao acordar",
+      "Dor que piora com movimentos específicos (flexão, extensão, rotação)",
+      "Dor que irradia para o braço ou formigamento"
+    ],
+    "sections": [
+      {
+        "title": "O que costuma sobrecarregar",
+        "items": [
+          "Postura inadequada: ombros arredondados para frente",
+          "Peito aperto e costas fracas (desequilíbrio)",
+          "Mobilidade limitada da coluna dorsal",
+          "Tensão no trapézio e levantador da escápula",
+          "Stress e tensão acumulada nos ombros"
+        ]
+      },
+      {
+        "title": "O que alguns atletas fazem para aliviar",
+        "items": [
+          "Alongamento do peito e anterior do ombro",
+          "Alguns fazem auto-massagem ou foam rolling nos ombros",
+          "Mobilidade de coluna dorsal: alongamento, rotações controladas",
+          "Fortalecimento dos romboides e trapézio médio",
+          "Melhor postura durante treino: ombros para trás e para baixo"
+        ]
+      },
+      {
+        "title": "Alongamentos simples",
+        "items": [
+          "Alongamento do peito: abraço cruzado, puxar ombro",
+          "Gato-vaca: com foco na extensão dorsal",
+          "Rotação de coluna: sentado ou deitado, girar o tronco",
+          "Alongamento dos ombros: puxar o cotovelo para frente e para trás",
+          "Fazer diariamente para manutenção"
+        ]
+      },
+      {
+        "title": "Quando pode ser melhor descansar",
+        "items": [
+          "Se há dor aguda ou limitação severa de movimento",
+          "Após sensação de 'travamento' ou rigidez extrema",
+          "Alguns fazem 1–2 dias de repouso relativo, depois mobilidade",
+          "Voltar com movimento controlado e postura melhorada"
+        ]
+      },
+      {
+        "title": "O que costuma ser arriscado forçar",
+        "items": [
+          "Exercícios de peito pesados sem aquecimento de costas",
+          "Movimento de alta intensidade com postura ruim",
+          "Alongamento forçado com dor aguda",
+          "Ignorar rigidez crônica ou dor persistente"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "region_pe",
+    "name": "Pé",
+    "redFlags": [
+      "Dor no calcanhar ao acordar ou após repouso",
+      "Dor na sola do pé que aumenta com atividade",
+      "Inchaço na base dos dedos",
+      "Dor aguda na fáscia plantar ou arco do pé"
+    ],
+    "sections": [
+      {
+        "title": "O que costuma sobrecarregar",
+        "items": [
+          "Corrida em superfícies duras sem suporte de calçado adequado",
+          "Fáscia plantar tensa ou inflamada",
+          "Arco do pé fraco (pés chatos) ou muito arqueado (supinação)",
+          "Aumento de volume: muita corrida em pouco tempo",
+          "Desequilíbrio na distribuição de peso"
+        ]
+      },
+      {
+        "title": "O que alguns atletas fazem para aliviar",
+        "items": [
+          "Gelo no calcanhar ou sola do pé após atividade",
+          "Usar sapatos com melhor suporte e amortecimento",
+          "Alguns fazem auto-massagem com bolinha de tênis na sola",
+          "Alongamento regular da fáscia plantar e panturrilha",
+          "Repouso relativo: atividades de baixo impacto (nado, bicicleta)"
+        ]
+      },
+      {
+        "title": "Alongamentos simples",
+        "items": [
+          "Massagem da sola: rolar bolinha de tênis de pé",
+          "Alongamento da fáscia: puxar os dedos em direção ao corpo",
+          "Alongamento em pé com parede: sem fazer força excessiva",
+          "Fazer 2× ao dia para melhor resultado"
+        ]
+      },
+      {
+        "title": "Quando pode ser melhor descansar",
+        "items": [
+          "Se há dor aguda ou ao dar o primeiro passo pela manhã",
+          "Após atividade que piorou a dor",
+          "Alguns fazem dias de repouso relativo: nado, alongamento",
+          "Voltar progressivamente: caminhada → trote → corrida"
+        ]
+      },
+      {
+        "title": "O que costuma ser arriscado forçar",
+        "items": [
+          "Corrida de alta intensidade com dor no calcanhar",
+          "Falta de suporte adequado no calçado",
+          "Alongamento forçado da fáscia",
+          "Ignorar dor que piora ou se torna crônica"
+        ]
+      }
+    ]
+  }
+]

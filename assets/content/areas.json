@@ -1,0 +1,58 @@
+[
+  {
+    "id": "area_corpo",
+    "title": "💪 Corpo",
+    "iconKey": "fitness",
+    "intro": "Fortalecimento e mobilidade para otimizar seu rendimento.",
+    "route": "/area/area_corpo"
+  },
+  {
+    "id": "area_recuperacao",
+    "title": "🩹 Recuperação",
+    "iconKey": "recovery",
+    "intro": "Orientações gerais para desconfortos em diferentes regiões.",
+    "route": "/recovery"
+  },
+  {
+    "id": "area_cabeca",
+    "title": "🧠 Cabeça",
+    "iconKey": "mind",
+    "intro": "Suporte mental e foco para o jogo.",
+    "route": "/mind"
+  },
+  {
+    "id": "area_dia_jogo",
+    "title": "⚽ Dia de Jogo",
+    "iconKey": "matchday",
+    "intro": "Dicas para antes, durante e depois do jogo.",
+    "route": "/matchday"
+  },
+  {
+    "id": "area_sono",
+    "title": "🌙 Sono",
+    "iconKey": "sleep",
+    "intro": "O descanso é parte fundamental da recuperação.",
+    "route": "/sleep"
+  },
+  {
+    "id": "area_alimentacao",
+    "title": "🍽️ Alimentação",
+    "iconKey": "nutrition",
+    "intro": "Orientações simples sobre o que pode ajudar.",
+    "route": "/nutrition"
+  },
+  {
+    "id": "area_prevencao",
+    "title": "📖 Prevenção de Lesões",
+    "iconKey": "prevention",
+    "intro": "Educação sobre lesões comuns no futebol.",
+    "route": "/library"
+  },
+  {
+    "id": "area_meu_kit",
+    "title": "🧾 Meu Kit",
+    "iconKey": "kit",
+    "intro": "Seus conteúdos favoritos organizados.",
+    "route": "/premium"
+  }
+]

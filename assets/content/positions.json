@@ -1,0 +1,156 @@
+[
+  {
+    "id": "pos_goleiro",
+    "name": "Goleiro",
+    "regionsFocus": [
+      "region_tornozelo",
+      "region_joelho",
+      "region_ombro",
+      "region_costas"
+    ],
+    "cardIds": [
+      "card_gk_positioning",
+      "card_gk_footwork",
+      "card_gk_finger_safety",
+      "card_gk_diving",
+      "card_gk_distribution",
+      "card_gk_mental_pressure"
+    ],
+    "routineIds": [
+      "routine_pos_jogo_pesado",
+      "routine_treino_intenso"
+    ]
+  },
+  {
+    "id": "pos_zagueiro",
+    "name": "Zagueiro",
+    "regionsFocus": [
+      "region_joelho",
+      "region_tornozelo",
+      "region_lombar",
+      "region_costas"
+    ],
+    "cardIds": [
+      "card_cdef_positioning",
+      "card_cdef_aerial",
+      "card_cdef_marking",
+      "card_cdef_distribution",
+      "card_cdef_reading_game",
+      "card_cdef_recovery"
+    ],
+    "routineIds": [
+      "routine_semana_cheia",
+      "routine_pos_jogo_pesado"
+    ]
+  },
+  {
+    "id": "pos_lateral",
+    "name": "Lateral (Ala)",
+    "regionsFocus": [
+      "region_tornozelo",
+      "region_joelho",
+      "region_panturrilha",
+      "region_posterior"
+    ],
+    "cardIds": [
+      "card_side_pace",
+      "card_side_endurance",
+      "card_side_crosses",
+      "card_side_pressing",
+      "card_side_recovery",
+      "card_side_mentality"
+    ],
+    "routineIds": [
+      "routine_semana_cheia",
+      "routine_treino_intenso"
+    ]
+  },
+  {
+    "id": "pos_volante",
+    "name": "Volante",
+    "regionsFocus": [
+      "region_joelho",
+      "region_posterior",
+      "region_panturrilha",
+      "region_lombar"
+    ],
+    "cardIds": [
+      "card_vol_positioning",
+      "card_vol_pressing",
+      "card_vol_ball_winning",
+      "card_vol_distribution",
+      "card_vol_box_coverage",
+      "card_vol_stamina"
+    ],
+    "routineIds": [
+      "routine_semana_cheia",
+      "routine_pos_jogo_pesado"
+    ]
+  },
+  {
+    "id": "pos_meia",
+    "name": "Meia",
+    "regionsFocus": [
+      "region_joelho",
+      "region_posterior",
+      "region_tornozelo",
+      "region_lombar"
+    ],
+    "cardIds": [
+      "card_mid_vision",
+      "card_mid_passing",
+      "card_mid_movement",
+      "card_mid_stamina",
+      "card_mid_defending",
+      "card_mid_game_sense"
+    ],
+    "routineIds": [
+      "routine_semana_cheia",
+      "routine_dia_viagem"
+    ]
+  },
+  {
+    "id": "pos_ponta",
+    "name": "Ponta",
+    "regionsFocus": [
+      "region_tornozelo",
+      "region_joelho",
+      "region_posterior",
+      "region_panturrilha"
+    ],
+    "cardIds": [
+      "card_winger_pace",
+      "card_winger_dribble",
+      "card_winger_crosses",
+      "card_winger_final_third",
+      "card_winger_recovery",
+      "card_winger_consistency"
+    ],
+    "routineIds": [
+      "routine_semana_cheia",
+      "routine_treino_intenso"
+    ]
+  },
+  {
+    "id": "pos_centroavante",
+    "name": "Centroavante",
+    "regionsFocus": [
+      "region_joelho",
+      "region_posterior",
+      "region_costas",
+      "region_lombar"
+    ],
+    "cardIds": [
+      "card_cf_positioning",
+      "card_cf_finishing",
+      "card_cf_hold_up",
+      "card_cf_aerial",
+      "card_cf_recovery",
+      "card_cf_consistency"
+    ],
+    "routineIds": [
+      "routine_pos_jogo_pesado",
+      "routine_semana_leve"
+    ]
+  }
+]

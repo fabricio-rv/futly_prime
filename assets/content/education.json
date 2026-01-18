@@ -1,0 +1,62 @@
+[
+  {
+    "id": "edu_ice_benefits",
+    "title": "Por que gelo pode ajudar?",
+    "summary": "Como o gelo afeta inflamação e dor em lesões agudas.",
+    "body": "O gelo reduz inflamação e dor aplicando frio à área lesionada. Nos primeiros 48–72 horas após uma lesão aguda, alguns atletas usam gelo para diminuir inchaço. O frio constinge vasos sanguíneos, reduzindo fluxo de sangue para o local. Aplicar por 15–20 minutos é comum; fazer isso várias vezes ao dia. Nunca aplicar gelo diretamente na pele; usar uma toalha para proteger. Após 72 horas, calor pode ser mais efetivo para rigidez crônica."
+  },
+  {
+    "id": "edu_stretching_after",
+    "title": "Alongar depois: em que casos alguns fazem?",
+    "summary": "Quando alongamento pós-exercício pode ser benéfico.",
+    "body": "Alguns atletas alongam após exercício para manter flexibilidade e reduzir rigidez. Após treino moderado, alongamento passivo por 20–30 segundos é comum. Importante: não forçar nem tentar ganhar amplitude após exercício intenso; apenas manutenção. Alguns acreditam que alongamento reduz dor muscular tardia, embora evidências sejam mistas. O mais efetivo é alongar consistentemente, vários dias por semana, fora do treino também. Se há lesão aguda, evitar alongamento forçado nos primeiros dias."
+  },
+  {
+    "id": "edu_hydration",
+    "title": "Hidratação: por que muda performance?",
+    "summary": "O impacto da hidratação na performance atlética.",
+    "body": "Desidratação reduz performance. O corpo funciona melhor quando hidratado adequadamente. Perda de apenas 2–3% de água corporal pode diminuir força, velocidade e foco. Alguns atletas bebem antes, durante e após exercício para manter hidratação. A quantidade ideal varia por pessoa, clima e intensidade. Dica geral: beber água regularmente ao longo do dia, não apenas durante exercício. Cores da urina podem indicar hidratação: clara ou leve amarelo é bom; escuro é sinal de beber mais."
+  },
+  {
+    "id": "edu_sleep_recovery",
+    "title": "Sono e recuperação: o básico",
+    "summary": "Como o sono afeta adaptação e recuperação do treino.",
+    "body": "O corpo se recupera e se adapta ao treino principalmente durante o sono. Falta de sono reduz recuperação, aumenta lesão, prejudica decisões. Maioria dos atletas se beneficia de 7–9 horas por noite, embora individualize. Durante sono profundo, o corpo libera hormônios de crescimento e repara tecidos. Alguns atletas descansam depois de treino muito intenso — sesta curta de 20–30 minutos pode ajudar. Rotina consistente (deitar no mesmo horário) melhora qualidade de sono. Evitar telas 30–60 minutos antes de dormir também é sugerido."
+  },
+  {
+    "id": "edu_muscle_pain",
+    "title": "Dor muscular vs dor articular: sinais gerais",
+    "summary": "Diferenciar desconforto muscular de problemas articulares.",
+    "body": "Dor muscular (dolorimento) é geralmente: difusa, ao longo do corpo (não específica), piora 24–48 horas após exercício novo, melhora com movimento leve. Dor articular é geralmente: localizada (ponto específico), presente durante movimento particular, pode inchar, não melhora facilmente com repouso. Dolorimento muscular é normal e tende a melhorar em alguns dias. Dor articular que persiste merece atenção. A regra básica: se dor está na articulação (joelho, tornozelo, ombro) e é localizada, cuidado extra com movimento. Se é muscular e difusa, geralmente melhora com repouso ativo e alongamento."
+  },
+  {
+    "id": "edu_warm_up",
+    "title": "Importância do aquecimento antes de treinar",
+    "summary": "Por que preparar o corpo melhora performance e segurança.",
+    "body": "Aquecimento aumenta temperatura corporal, fluxo sanguíneo para músculos, e prepara o sistema nervoso. Músculos quentes contraem mais eficientemente, reduzem risco de lesão. Aquecimento geral: 5–10 minutos de atividade leve (corrida leve, bicicleta). Aquecimento específico: exercícios relacionados ao treino. Alguns fazem mobilidade dinâmica: leg swings, círculos de braço, movimentos de transição. Sem aquecimento adequado, músculos ainda \"frios\" respondem mais lentamente, aumentando risco de lesão. Investir 5–10 minutos de aquecimento reduz riscos significativamente."
+  },
+  {
+    "id": "edu_progressive_overload",
+    "title": "Carga progressiva: treinar mais sem se machucar",
+    "summary": "Como aumentar intensidade de forma segura.",
+    "body": "Progressão segura geralmente: aumento de 10% por semana (volume, intensidade ou frequência). Mudar um parâmetro por vez: aumentar peso OU repetições OU frequência, mas não todos de uma vez. Escutar o corpo: se sentindo bem, aumentar próxima semana; se dor ou fadiga excessiva, manter. Alguns usam a regra da escala de percepção: esforço deve estar entre 6–8 em escala de 10. Aumento muito rápido causa lesão por sobrecarga. Planejamento semanal com aumentos graduais leva a ganhos maiores e mais sustentáveis."
+  },
+  {
+    "id": "edu_nutrition_timing",
+    "title": "Quando comer antes e depois do treino",
+    "summary": "Dicas simples sobre nutrição ao redor do exercício.",
+    "body": "Antes do treino: comer 1–3 horas antes (refeição completa) ou 30–60 minutos antes (algo leve). Alimentos leves ajudam: banana com aveia, pão com mel, energia de frutas. Evitar muito volume ou gordura; pode causar desconforto. Depois do treino: comer dentro de 1–2 horas para recuperação otimizada. Alguns atletas combinam proteína + carboidrato: frango com batata, iogurte com granola. A regra: não ir para treino com fome, mas também não muito cheio. Depois, não deixar passar horas sem comer; o corpo se recupera melhor com nutrição próxima ao treino."
+  },
+  {
+    "id": "edu_breathing_techniques",
+    "title": "Técnicas de respiração para controle e foco",
+    "summary": "Respiração como ferramenta para calma e performance.",
+    "body": "Respiração controlada acalma o sistema nervoso e melhora foco. Técnica 4-4-4: inspirar por 4, manter por 4, expirar por 4. Fazer isso 3–5 vezes reduz ansiedade. Antes de momentos importantes (pênalti, situação tensa), alguns fazem respirações profundas: inspirar profundo, expirar lentamente. Respiração profunda (diafragma) é mais efetiva que respiração rápida (peito). Alguns atletas praticam respiração no treino, não apenas na pressão. Integrar respiração consciente na rotina pré-jogo melhora foco e confiança."
+  },
+  {
+    "id": "edu_injury_prevention",
+    "title": "5 passos para reduzir lesão",
+    "summary": "Estratégia holística de prevenção de lesões.",
+    "body": "1. Aquecimento e resfriamento: 5–10 minutos cada. 2. Alongamento regular: 3–5 vezes por semana, fora do treino. 3. Fortalecimento: focar em grupos musculares fracos ou desequilibrados. 4. Progressão gradual: aumentar 10% por semana. 5. Recuperação: sono 7–9 horas, dias de repouso, nutrição. Nenhum passo é suficiente sozinho; combinados criam redundância. Se dor surge, modificar, não ignorar. Lesões prevenidas com consistência salvam muito tempo depois."
+  }
+]
